@@ -1,10 +1,8 @@
 # ml-python
-Regression and classification analysis in Python.
+Regression and classification analysis in Python with various models.
 
-Dataset for classification - https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
+* Classification.ipynb : LogisticRegresson, LDA, QDA, KNN, SVM models
+* Regression.ipynb - LinearRegression()
+* Neural networks.ipynb - Sequential, LSTM
+* Decision Trees.ipynb - RandomForest, XGBoost
 
-Machine learning classification script - Classification_Copy.ipynb
-
-Data preparation and cleaning - Cars clean.ipynb
-
-SEDA example - SEDA SHealth.ipynb
